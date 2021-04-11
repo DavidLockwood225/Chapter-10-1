@@ -1,0 +1,10 @@
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\bin\Debug\Sales Order Form Project.exe.config
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\bin\Debug\Sales Order Form Project.exe
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\bin\Debug\Sales Order Form Project.pdb
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\obj\Debug\Sales Order Form Project.csprojAssemblyReference.cache
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\obj\Debug\Sales_Order_Form_Project.frmKWSales.resources
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\obj\Debug\Sales_Order_Form_Project.Properties.Resources.resources
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\obj\Debug\Sales Order Form Project.csproj.GenerateResource.cache
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\obj\Debug\Sales Order Form Project.csproj.CoreCompileInputs.cache
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\obj\Debug\Sales Order Form Project.exe
+C:\Users\Dharla\Documents\Chapter 10-1\Sales Order Form Solution\Sales Order Form Project\obj\Debug\Sales Order Form Project.pdb
